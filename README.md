@@ -7,6 +7,10 @@
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanFardin&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+<div style="display: inline_block"><br>>
+  <img align="right" alt="Bryan-pic" height="590" style="border-radius:10%;" src="https://raw.githubusercontent.com/gist/BryanFardin/5163504be2b246fed9fc455d6a933782/raw/1c5db0dedaa3b3fd0e8e0ff05cccbddf76c3ece8/githubcard.svg">
+</div>
+
 ### 🧰🛠 Ferramentas e Tecnologias:
 
 <div style="display: inline_block"><br>
@@ -31,9 +35,6 @@
 </div>
 
 ### ⚡ Curiosidade:
-<div style="display: inline_block"><br>>
-  <img align="right" alt="Bryan-pic" height="150" style="border-radius:10%;" src="https://media.discordapp.net/attachments/839651983529869355/997977455736410285/1658006444136.png">
-</div>
   
 ##
 
