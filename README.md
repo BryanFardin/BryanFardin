@@ -39,7 +39,7 @@
   - Tenho uma Gatinha cujo nome é Pow Pow, Referencia a Personagem Jinx de League Of Legends
   - Meu sonho de criança era ser Piloto de Caça.
   - Bandas da qual eu gosto: Imagine Dragons, System Of a Down, Metalica, Fall out Boy, Red Hot Chilli Peppers
-  - Musica Favorita: Twenty One Pilots - Heathens
+  - Musica Favorita: System Of A Down - Lonely Day
 ##
 
 ### 📫 Como entrar em contato comigo:
